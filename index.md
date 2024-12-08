@@ -99,7 +99,6 @@ We will cover a range of topics that contribute to the stability of LLM pre-trai
 All submissions must adhere to the following formatting requirements:
 </p>
 <ul style='font-size: 1em;'>
-  <li>Submissions must be original and not currently under review elsewhere.</li>
   <li>Use the IEEE style files for conference proceedings, available at <a href="https://template-selector.ieee.org/secure/templateSelector/publicationType" target="_blank">IEEE Templates</a>.</li>
   <li>Follow double-blind reviewing: In LaTeX, use:
     <pre><code>\author{\IEEEauthorblockN{Anonymous Authors}}</code></pre></li>
