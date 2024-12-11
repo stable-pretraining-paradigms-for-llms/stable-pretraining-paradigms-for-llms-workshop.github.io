@@ -280,3 +280,16 @@ a:hover {
   text-align: center;
   font-size: 0.9rem;
 }
+
+
+.title-font {
+  font-family: 'Georgia', serif; 
+  font-size: 1.1em; 
+  font-weight: bold;
+}
+
+.custom-font {
+  font-family: 'Times New Roman', serif; 
+  font-size: 1.3em; 
+  font-style: italic;
+}
