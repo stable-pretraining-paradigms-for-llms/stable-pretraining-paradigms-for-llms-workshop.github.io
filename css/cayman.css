@@ -40,11 +40,15 @@ a:hover {
   border-color: #3a568f;
 }
 
-/* 页头（Header）样式：线性渐变，深蓝紫色科技感 */
+/* 页头（Header）样式：使用背景图片替代线性渐变 */
 .page-header {
   color: #fff;
   text-align: center;
-  background-image: linear-gradient(120deg, #4b6cb7, #182848);
+  /* 使用线性渐变生成一个半透明黑色叠加层，然后再放入背景图 */
+  background: 
+    linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)),
+    url("images/header-bg.png") no-repeat center center;
+  background-size: cover;
   padding: 3rem 1rem;
 }
 
