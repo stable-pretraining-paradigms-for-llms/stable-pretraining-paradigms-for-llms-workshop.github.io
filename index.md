@@ -36,19 +36,18 @@ ol li {
   margin-top: 2em;
 }
 </style>
-
 <p style='text-align: justify; font-size: 1.1em;'>
-<b>Our workshop aims to develop stable pre-training paradigms for LLMs that ensure consistent performance and reliability in Large Language Models (LLMs).</b>
+<b>Our workshop aims to develop stable pre-training paradigms for deep learning that ensure consistent performance and reliability across diverse models and tasks.</b>
 </p>
 
 <h1>Topic and Content</h1>
 
 <p style='text-align: justify; font-size: 1em;'>
-Large Language Models (LLMs) have revolutionized artificial intelligence by achieving remarkable performance across a wide array of tasks. However, the pre-training process of these models often encounters instability issues such as loss spikes, gradient vanishing or exploding, and convergence difficulties. These instabilities not only prolong training time but also affect the overall performance and reliability of the models. As LLMs become increasingly integral to various applications, establishing stable training paradigms is essential. This workshop seeks to bring together researchers and practitioners to discuss and develop strategies for enhancing the stability of LLM pre-training. By focusing on aspects like data quality, optimizer selection, architectural innovations, and spike-awareness mechanisms, we aim to foster collaborations that lead to more robust and dependable LLMs.
+Deep learning has revolutionized artificial intelligence by achieving remarkable performance across a wide array of tasks. However, the training processes of these models often encounter instability issues such as loss spikes, gradient vanishing or exploding, and convergence difficulties. These instabilities not only prolong training time but also affect the overall performance and reliability of the models. As deep learning systems become increasingly integral to various applications, establishing stable training paradigms is essential. This workshop seeks to bring together researchers and practitioners to discuss and develop strategies for enhancing the stability of deep learning training. By focusing on aspects like data quality, optimizer selection, architectural innovations, and spike-awareness mechanisms, we aim to foster collaborations that lead to more robust and dependable deep learning models.
 </p>
 
 <p style='text-align: justify; font-size: 1em;'>
-We will cover a range of topics that contribute to the stability of LLM pre-training, including but not limited to:
+We will cover a range of topics that contribute to the stability of deep learning training, including but not limited to:
 </p>
 
 <ol style='font-size: 1em;'>
@@ -74,7 +73,7 @@ We will cover a range of topics that contribute to the stability of LLM pre-trai
   </li>
   <li>
     <b>Case Studies and Best Practices</b>
-    <p style='text-align: justify;'>Sharing experiences from successful implementations of stable LLM training, including challenges faced and solutions developed. This includes industry applications where stability was critical for deployment and performance.</p>
+    <p style='text-align: justify;'>Sharing experiences from successful implementations of stable deep learning training, including challenges faced and solutions developed. This includes industry applications where stability was critical for deployment and performance.</p>
   </li>
 </ol>
 
