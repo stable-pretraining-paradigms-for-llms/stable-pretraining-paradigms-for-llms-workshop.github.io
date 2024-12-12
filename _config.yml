@@ -1,6 +1,6 @@
 # Setup
 title: Stable Training Paradigms for Deep Learning <br> Reducing Instability, Increasing Capacity
-description: "<span class='title-font'>CAI Workshop at</span> <span class='custom-font'>Santa Clara, California, USA, May 5-7, 2025</span>"
+description: "<span class='title-font'>IEEE CAI Workshop at</span> <span class='custom-font'>Santa Clara, California, USA, May 5-7, 2025</span>"
 baseurl:      "/stable-pretraining-paradigms-for-llms-workshop.github.io"
 paginate:     1
 locale:       "en"
