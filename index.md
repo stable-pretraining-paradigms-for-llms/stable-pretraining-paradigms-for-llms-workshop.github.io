@@ -36,9 +36,6 @@ ol li {
   margin-top: 2em;
 }
 </style>
-<p style='text-align: justify; font-size: 1.1em;'>
-<b>Stable Training Paradigms for Neural Networks<br>Reducing Instability, Increasing Capacity</b>
-</p>
 
 <h1>Topic and Content</h1>
 
