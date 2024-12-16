@@ -37,43 +37,47 @@ ol li {
 }
 </style>
 <p style='text-align: justify; font-size: 1.1em;'>
-<b>Our workshop aims to develop stable pre-training paradigms for deep learning that ensure consistent performance and reliability across diverse models and tasks.</b>
+<b>Stable Training Paradigms for Neural Networks<br>Reducing Instability, Increasing Capacity</b>
 </p>
 
 <h1>Topic and Content</h1>
 
 <p style='text-align: justify; font-size: 1em;'>
-Deep learning has revolutionized artificial intelligence by achieving remarkable performance across a wide array of tasks. However, the training processes of these models often encounter instability issues such as loss spikes, gradient vanishing or exploding, and convergence difficulties. These instabilities not only prolong training time but also affect the overall performance and reliability of the models. As deep learning systems become increasingly integral to various applications, establishing stable training paradigms is essential. This workshop seeks to bring together researchers and practitioners to discuss and develop strategies for enhancing the stability of deep learning training. By focusing on aspects like data quality, optimizer selection, architectural innovations, and spike-awareness mechanisms, we aim to foster collaborations that lead to more robust and dependable deep learning models.
+Neural networks have revolutionized artificial intelligence, excelling in a multitude of application scenarios. However, as we advance toward increasingly large foundation models—such as expansive vision transformers or massive language models—the challenges of ensuring stable training become more pronounced. Issues like loss spikes, vanishing or exploding gradients, and difficulties achieving smooth convergence can significantly prolong training cycles, ultimately undermining overall performance and reliability. Establishing stable training paradigms is therefore essential to support the growing complexity and importance of next-generation neural architectures.
+
+This workshop aims to bring together researchers and practitioners to explore strategies that enhance the stability of neural network training. We will focus on areas including data quality, advanced optimization methods, architectural innovations, and the early detection and mitigation of training instabilities. By fostering the exchange of ideas, best practices, and cutting-edge techniques, we strive to cultivate more robust and dependable models. While we particularly welcome contributions related to large foundation models, we invite insights from all domains of neural network research where stability plays a critical role.
 </p>
 
+
+
 <p style='text-align: justify; font-size: 1em;'>
-We will cover a range of topics that contribute to the stability of deep learning training, including but not limited to:
+We will cover a range of topics that contribute to the stability of neural network training, including but not limited to:
 </p>
 
 <ol style='font-size: 1em;'>
   <li>
     <b>Data Quality and Preprocessing for Stability</b>
-    <p style='text-align: justify;'>Investigating how high-quality, well-preprocessed data can enhance training stability. Topics include data cleaning, balancing, augmentation, and the impact of data diversity on preventing overfitting and promoting smooth convergence.</p>
+    <p style='text-align: justify;'>Investigating how high-quality, well-preprocessed data can enhance training stability. Topics include data cleaning, balancing, augmentation, and ensuring data diversity to prevent overfitting and promote smooth convergence.</p>
   </li>
   <li>
     <b>Advanced Optimizers for Stable Training</b>
-    <p style='text-align: justify;'>Exploring optimization algorithms that improve training stability, such as adaptive learning rates, momentum methods, and second-order optimizers. Discussion on how these optimizers can mitigate issues like loss spikes and facilitate consistent gradient flow.</p>
+    <p style='text-align: justify;'>Exploring optimization algorithms that improve training stability, such as adaptive learning rates, momentum-based methods, and second-order optimizers. Discussion on how these approaches can mitigate loss spikes and facilitate consistent gradient flow, especially at massive scales.</p>
   </li>
   <li>
     <b>Architectural Innovations Promoting Stability</b>
-    <p style='text-align: justify;'>Examining model architectures that inherently support stable training and prevent vanishing or exploding gradients.</p>
+    <p style='text-align: justify;'>Examining model architectures that inherently support stable training and prevent phenomena like vanishing or exploding gradients. Special focus is given to structures that can handle the complexity and depth of large-scale vision and language models.</p>
   </li>
   <li>
     <b>Spike-Awareness and Mitigation Techniques</b>
-    <p style='text-align: justify;'>Developing methods to detect and respond to training instabilities in real-time, focusing specifically on loss spikes—sudden increases during model training. These spikes can signal problems like vanishing or exploding gradients, overfitting, or inappropriate learning rates.</p>
+    <p style='text-align: justify;'>Developing methods to detect and respond to training instabilities in real-time. Emphasis on identifying and addressing loss spikes, which can indicate issues like inappropriate learning rates, poor parameter initialization, or data anomalies.</p>
   </li>
   <li>
     <b>Efficient Hardware Utilization for Stability</b>
-    <p style='text-align: justify;'>Leveraging hardware accelerators and memory management strategies that support stable training of large models. Topics may include gradient checkpointing, mixed-precision training, and specialized hardware to handle extensive computations reliably.</p>
+    <p style='text-align: justify;'>Leveraging hardware accelerators, mixed-precision training, gradient checkpointing, and other techniques to manage computational resources effectively. This ensures stable training even as models grow to billions of parameters and beyond.</p>
   </li>
   <li>
     <b>Case Studies and Best Practices</b>
-    <p style='text-align: justify;'>Sharing experiences from successful implementations of stable deep learning training, including challenges faced and solutions developed. This includes industry applications where stability was critical for deployment and performance.</p>
+    <p style='text-align: justify;'>Sharing experiences from successful implementations of stable neural network training. Real-world examples highlight common challenges and proven solutions for stabilizing neural network in diverse research and industry contexts.</p>
   </li>
 </ol>
 
