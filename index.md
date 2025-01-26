@@ -84,13 +84,22 @@ We will cover a range of topics that contribute to the stability of neural netwo
 </div>
 
 <div id="key-dates">
-<h2>Key Dates</h2>
-<ul style='list-style-type: none; font-size: 1em; padding:0;'>
-  <li><b>Paper Submission Deadline:</b> 15 January, 2025 AoE</li>
-  <li><b>Notification of Acceptance:</b> 1 March, 2025</li>
-  <li><b>Final Camera-Ready Copy Deadline:</b> 7 March, 2025</li>
-  <li><b>Workshop Date:</b> During IEEE CAI 2025</li>
-</ul>
+  <h2>Key Dates</h2>
+  <ul style="list-style-type: none; font-size: 1em; padding: 0;">
+    <li>
+      <b>Workshop Paper Submission Deadline:</b>
+      <span style="text-decoration: line-through; color: gray;">15 January, 2025 AoE</span>
+      <span style="color: red;">10 March, 2025</span>
+    </li>
+    <li>
+      <b>Workshop Paper Acceptance Notification:</b>
+      <span style="text-decoration: line-through; color: gray;">1 March, 2025</span>
+      <span style="color: red;">1 April, 2025</span>
+    </li>
+    <li>
+      <b>Workshop Date:</b> During IEEE CAI 2025
+    </li>
+  </ul>
 </div>
 
 <div id="paper-guidelines">
